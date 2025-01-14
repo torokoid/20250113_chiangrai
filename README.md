@@ -204,7 +204,7 @@ p.note { display: none; }
 <h2><span class="yellow">IMMIGRATIONに戻って待ちます<br>前に席は先ほどのハリウッドスター、体格がすごい！</span></h2>
 <a href="20250113_026.JPG" target="_blank"><img src="20250113_026.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">役場にデータが来てなかったのでVISAを１ヶ月だけ延焼して帰路に<br>街中で見かける白人のご夫婦は元気そうです</span></h2>
+<h2><span class="yellow">役場にデータが来てなかったのでVISAを１ヶ月だけ延長して帰路に<br>街中で見かける白人のご夫婦は元気そうです</span></h2>
 <a href="20250113_027.JPG" target="_blank"><img src="20250113_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250113_028.JPG" target="_blank"><img src="20250113_028.JPG" alt="サンプル画像" width="900" /></a>
 
