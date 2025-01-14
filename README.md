@@ -197,7 +197,7 @@ p.note { display: none; }
 <a href="20250113_025.JPG" target="_blank"><img src="20250113_025.JPG" alt="サンプル画像" width="900" /></a>
 
 
-<h2><span class="yellow">スーパーの通路ではお姉さんに怒られるも、制御が破綻して困り顔のロボット君<br></span></h2>
+<h2><span class="yellow">スーパーの通路ではお姉さんに怒られるも、制御が破綻して困り顔のロボット君<br>画像クリックで動画再生します↓</span></h2>
 <a href="https://youtube.com/shorts/KjjRQUJIx64?feature=share" target="_blank"><img src="20250113_001.png" alt="サンプル画像" width="900" /></a>
 
 
