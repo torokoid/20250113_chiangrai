@@ -175,7 +175,7 @@ p.note { display: none; }
 <h2><span class="yellow">水とコーヒーはセルフサービスで無料</span></h2>
 <a href="20250113_016.JPG" target="_blank"><img src="20250113_016.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">水はIMMIGRATOIN専用水</span></h2>
+<h2><span class="yellow">水はIMMIGRATOIN専用ボトル</span></h2>
 <a href="20250113_035.JPG" target="_blank"><img src="20250113_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250113_018.JPG" target="_blank"><img src="20250113_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250113_019.JPG" target="_blank"><img src="20250113_019.JPG" alt="サンプル画像" width="900" /></a>
