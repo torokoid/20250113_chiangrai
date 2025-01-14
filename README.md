@@ -195,7 +195,7 @@ p.note { display: none; }
 
 
 <h2><span class="yellow">スーパーの通路ではお姉さんに怒られるも、制御が破綻して困り顔のロボット君<br></span></h2>
-<a href="https://youtube.com/shorts/KjjRQUJIx64?feature=share" target="_blank"><img src="20250113_001.png” alt="サンプル画像" width="900" /></a>
+<a href="https://youtube.com/shorts/KjjRQUJIx64?feature=share" target="_blank"><img src="20250113_001.png" alt="サンプル画像" width="900" /></a>
 
 
 <h2><span class="yellow">IMMIGRATIONに戻って待ちます<br>前に席は先ほどのハリウッドスター、体格がすごい！</span></h2>
