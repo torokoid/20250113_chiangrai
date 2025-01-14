@@ -137,7 +137,7 @@ p.note { display: none; }
 <h2><span class="yellow">役場は警察署のお隣なので歩いて移動</span></h2>
 <a href="20250113_003.JPG" target="_blank"><img src="20250113_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">日本の役場と違って派手な色取り</span></h2>
+<h2><span class="yellow">日本の役場と違って派手な彩り</span></h2>
 <a href="20250113_004.JPG" target="_blank"><img src="20250113_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250113_005.JPG" target="_blank"><img src="20250113_005.JPG" alt="サンプル画像" width="900" /></a>
 
